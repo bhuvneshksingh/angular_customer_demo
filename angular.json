@@ -135,5 +135,8 @@
       }
     }
   },
-  "defaultProject": "CustomerAPP"
+  "defaultProject": "CustomerAPP",
+  "cli": {
+    "analytics": false
+  }
 }
